@@ -1,0 +1,5 @@
+{
+  "name": "AI Kahoot Clone",
+  "description": "A real-time quiz game like Kahoot with AI-generated questions using Gemini.",
+  "requestFramePermissions": []
+}
